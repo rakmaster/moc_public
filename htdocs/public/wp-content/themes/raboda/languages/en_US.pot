@@ -1,0 +1,3098 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Assyrian 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2015-06-26 09:36+0700\n"
+"PO-Revision-Date: 2015-06-26 09:36+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../assyrian-fashion/woocommerce/content-product-archive.php:61
+#: ../assyrian-fashion/woocommerce/content-product.php:61
+#: ../assyrian/woocommerce/content-product-archive.php:61
+#: ../assyrian/woocommerce/content-product.php:61
+#: ../assyrian/woocommerce/single-product/sale-flash.php:16
+#: ../raboda/woocommerce/content-product.php:61
+#: ../raboda/woocommerce/single-product/sale-flash.php:16
+msgid "Sale"
+msgstr ""
+
+#: ../assyrian-fashion/woocommerce/content-product-archive.php:81
+#: ../assyrian-fashion/woocommerce/content-product-archive.php:128
+#: ../assyrian-fashion/woocommerce/content-product.php:81
+#: ../assyrian-fashion/woocommerce/content-product.php:128
+#: ../assyrian/woocommerce/content-product-archive.php:81
+#: ../assyrian/woocommerce/content-product-archive.php:128
+#: ../assyrian/woocommerce/content-product.php:81
+#: ../assyrian/woocommerce/content-product.php:128
+#: ../raboda/woocommerce/content-product.php:94
+#: ../raboda/woocommerce/content-product.php:128
+msgid "Quick View"
+msgstr ""
+
+#: ../assyrian/404.php:23
+msgid "Oops ! That Page Can't Be Found."
+msgstr ""
+
+#: ../assyrian/404.php:24
+msgid "Can't find what you need? Take a moment and do a search below!"
+msgstr ""
+
+#: ../assyrian/archive.php:58 ../assyrian/author.php:53
+#: ../assyrian/category.php:53 ../assyrian/image.php:51
+#: ../assyrian/index.php:58 ../assyrian/search.php:49
+#: ../assyrian/single.php:46 ../assyrian/tag.php:53
+#: ../assyrian/theme-config.php:1036 ../raboda/theme-config.php:916
+msgid "Blog"
+msgstr ""
+
+#: ../assyrian/archive.php:74 ../raboda/archive.php:54
+#: ../twentyfourteen/archive.php:31 ../twentythirteen/archive.php:29
+#: ../twentytwelve/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../assyrian/archive.php:76 ../raboda/archive.php:56
+#: ../twentyfourteen/archive.php:34 ../twentythirteen/archive.php:31
+#: ../twentytwelve/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../assyrian/archive.php:76 ../raboda/archive.php:56
+#: ../twentyfourteen/archive.php:34 ../twentythirteen/archive.php:31
+#: ../twentytwelve/archive.php:31
+msgid "F Y"
+msgstr ""
+
+#: ../assyrian/archive.php:78 ../raboda/archive.php:58
+#: ../twentyfourteen/archive.php:37 ../twentythirteen/archive.php:33
+#: ../twentytwelve/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../assyrian/archive.php:78 ../raboda/archive.php:58
+#: ../twentyfourteen/archive.php:37 ../twentythirteen/archive.php:33
+#: ../twentytwelve/archive.php:33
+msgid "Y"
+msgstr ""
+
+#: ../assyrian/archive.php:80 ../raboda/archive.php:60
+#: ../twentyfourteen/archive.php:40
+#: ../twentyfourteen/taxonomy-post_format.php:51
+#: ../twentythirteen/archive.php:35 ../twentytwelve/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../assyrian/author.php:76 ../raboda/author.php:55
+#: ../twentytwelve/author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../assyrian/author.php:105 ../raboda/author.php:84
+#: ../twentythirteen/author-bio.php:26 ../twentytwelve/author.php:63
+#: ../twentytwelve/content.php:62
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../assyrian/category.php:68 ../raboda/category.php:47
+#: ../twentyfourteen/category.php:20 ../twentythirteen/category.php:19
+#: ../twentytwelve/category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:161
+#: ../assyrian/functions.php:149 ../raboda/class-tgm-plugin-activation.php:161
+#: ../raboda/functions.php:148
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:162
+#: ../assyrian/functions.php:150 ../raboda/class-tgm-plugin-activation.php:162
+#: ../raboda/functions.php:149
+msgid "Install Plugins"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:163
+#: ../assyrian/functions.php:151 ../raboda/class-tgm-plugin-activation.php:163
+#: ../raboda/functions.php:150
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:164
+#: ../raboda/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:175
+#: ../assyrian/functions.php:163 ../raboda/class-tgm-plugin-activation.php:175
+#: ../raboda/functions.php:162
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:176
+#: ../raboda/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:177
+#: ../assyrian/class-tgm-plugin-activation.php:1956
+#: ../assyrian/functions.php:164 ../raboda/class-tgm-plugin-activation.php:177
+#: ../raboda/class-tgm-plugin-activation.php:1956 ../raboda/functions.php:163
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:178
+#: ../assyrian/class-tgm-plugin-activation.php:1644
+#: ../raboda/class-tgm-plugin-activation.php:178
+#: ../raboda/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:179
+#: ../raboda/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:180
+#: ../raboda/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:532
+#: ../assyrian/class-tgm-plugin-activation.php:2173
+#: ../raboda/class-tgm-plugin-activation.php:532
+#: ../raboda/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1167
+#: ../assyrian/class-tgm-plugin-activation.php:1348
+#: ../raboda/class-tgm-plugin-activation.php:1167
+#: ../raboda/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1170
+#: ../assyrian/class-tgm-plugin-activation.php:1351
+#: ../raboda/class-tgm-plugin-activation.php:1170
+#: ../raboda/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1175
+#: ../raboda/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1178
+#: ../raboda/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1178
+#: ../raboda/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1181
+#: ../raboda/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1183
+#: ../raboda/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1288
+#: ../assyrian/class-tgm-plugin-activation.php:1409
+#: ../raboda/class-tgm-plugin-activation.php:1288
+#: ../raboda/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1312
+#: ../assyrian/class-tgm-plugin-activation.php:1410
+#: ../raboda/class-tgm-plugin-activation.php:1312
+#: ../raboda/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1372
+#: ../raboda/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1388
+#: ../raboda/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1389
+#: ../raboda/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1390
+#: ../raboda/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1391
+#: ../assyrian/woocommerce/myaccount/my-orders.php:34
+#: ../assyrian/woocommerce/myaccount/my-orders.php:55
+#: ../raboda/class-tgm-plugin-activation.php:1391
+#: ../raboda/woocommerce/myaccount/my-orders.php:34
+#: ../raboda/woocommerce/myaccount/my-orders.php:55
+msgid "Status"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1939
+#: ../raboda/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1940
+#: ../raboda/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1941
+#: ../raboda/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1942
+#: ../raboda/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1943
+#: ../raboda/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1944
+#: ../raboda/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:1955
+#: ../raboda/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:2069
+#: ../raboda/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:2070
+#: ../raboda/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:2070
+#: ../assyrian/class-tgm-plugin-activation.php:2079
+#: ../raboda/class-tgm-plugin-activation.php:2070
+#: ../raboda/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:2070
+#: ../assyrian/class-tgm-plugin-activation.php:2079
+#: ../raboda/class-tgm-plugin-activation.php:2070
+#: ../raboda/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:2071
+#: ../raboda/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:2072
+#: ../raboda/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:2076
+#: ../raboda/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:2077
+#: ../raboda/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:2078
+#: ../raboda/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:2079
+#: ../raboda/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:2080
+#: ../raboda/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../assyrian/class-tgm-plugin-activation.php:2081
+#: ../raboda/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../assyrian/comments.php:31 ../assyrian/functions.php:1119
+#: ../raboda/comments.php:31 ../raboda/functions.php:1132
+#: ../raboda/functions.php:1165
+#: ../raboda/plugins/roadthemes-helper/roadthemes-helper.php:140
+msgid "1 comment"
+msgstr ""
+
+#: ../assyrian/comments.php:51 ../raboda/comments.php:51
+#: ../twentyfourteen/comments.php:59 ../twentythirteen/comments.php:52
+#: ../twentytwelve/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../assyrian/content-audio.php:58 ../assyrian/content-gallery.php:55
+#: ../assyrian/content-image.php:59 ../assyrian/content-video.php:55
+#: ../assyrian/content.php:59 ../raboda/content-audio.php:48
+#: ../raboda/content-gallery.php:40 ../raboda/content-image.php:48
+#: ../raboda/content-video.php:40 ../raboda/content.php:48
+#: ../twentyfourteen/content-aside.php:46
+#: ../twentyfourteen/content-audio.php:46
+#: ../twentyfourteen/content-gallery.php:46
+#: ../twentyfourteen/content-image.php:46
+#: ../twentyfourteen/content-link.php:46
+#: ../twentyfourteen/content-quote.php:46
+#: ../twentyfourteen/content-video.php:46 ../twentyfourteen/content.php:54
+#: ../twentyfourteen/inc/widgets.php:127 ../twentyfourteen/inc/widgets.php:172
+#: ../twentythirteen/content-aside.php:13
+#: ../twentythirteen/content-audio.php:24
+#: ../twentythirteen/content-gallery.php:24
+#: ../twentythirteen/content-image.php:23
+#: ../twentythirteen/content-link.php:24
+#: ../twentythirteen/content-quote.php:13
+#: ../twentythirteen/content-status.php:13
+#: ../twentythirteen/content-video.php:23 ../twentythirteen/content.php:41
+#: ../twentytwelve/content-aside.php:15 ../twentytwelve/content-image.php:13
+#: ../twentytwelve/content-link.php:14 ../twentytwelve/content-quote.php:13
+#: ../twentytwelve/content-status.php:31 ../twentytwelve/content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../assyrian/content-audio.php:59 ../assyrian/content-gallery.php:56
+#: ../assyrian/content-image.php:60 ../assyrian/content-page.php:20
+#: ../assyrian/content-video.php:56 ../assyrian/content.php:60
+#: ../assyrian/image.php:120 ../raboda/content-audio.php:49
+#: ../raboda/content-gallery.php:41 ../raboda/content-image.php:49
+#: ../raboda/content-page.php:25 ../raboda/content-video.php:41
+#: ../raboda/content.php:49 ../raboda/image.php:100
+#: ../raboda/page-templates/contact-page.php:128
+#: ../twentyfourteen/content-aside.php:48
+#: ../twentyfourteen/content-audio.php:48
+#: ../twentyfourteen/content-gallery.php:48
+#: ../twentyfourteen/content-image.php:48
+#: ../twentyfourteen/content-link.php:48 ../twentyfourteen/content-page.php:22
+#: ../twentyfourteen/content-quote.php:48
+#: ../twentyfourteen/content-video.php:48 ../twentyfourteen/content.php:56
+#: ../twentyfourteen/image.php:54 ../twentythirteen/content-aside.php:14
+#: ../twentythirteen/content-audio.php:25
+#: ../twentythirteen/content-chat.php:24
+#: ../twentythirteen/content-gallery.php:25
+#: ../twentythirteen/content-image.php:24
+#: ../twentythirteen/content-link.php:25
+#: ../twentythirteen/content-quote.php:14
+#: ../twentythirteen/content-status.php:14
+#: ../twentythirteen/content-video.php:24 ../twentythirteen/content.php:42
+#: ../twentythirteen/image.php:70 ../twentythirteen/page.php:35
+#: ../twentytwelve/content-page.php:21 ../twentytwelve/content.php:45
+#: ../twentytwelve/image.php:102
+msgid "Pages:"
+msgstr ""
+
+#: ../assyrian/content-audio.php:66 ../assyrian/content-gallery.php:62
+#: ../assyrian/content-image.php:66 ../assyrian/content-video.php:62
+#: ../assyrian/content.php:66
+msgid "Read more"
+msgstr ""
+
+#: ../assyrian/content-audio.php:86 ../assyrian/content-gallery.php:82
+#: ../assyrian/content-image.php:86 ../assyrian/content-video.php:82
+#: ../assyrian/content.php:86 ../raboda/content-audio.php:72
+#: ../raboda/content-gallery.php:63 ../raboda/content-image.php:72
+#: ../raboda/content-video.php:63 ../raboda/content.php:72
+msgid "About the Author: <a href=\""
+msgstr ""
+
+#: ../assyrian/content-none.php:13 ../assyrian/index.php:100
+#: ../assyrian/search.php:80 ../raboda/content-none.php:13
+#: ../raboda/index.php:76 ../raboda/search.php:60
+#: ../twentyfourteen/content-none.php:12 ../twentythirteen/content-none.php:12
+#: ../twentytwelve/content-none.php:13 ../twentytwelve/index.php:49
+#: ../twentytwelve/search.php:34
+msgid "Nothing Found"
+msgstr ""
+
+#: ../assyrian/content-none.php:17 ../assyrian/index.php:104
+#: ../raboda/content-none.php:17 ../raboda/index.php:80
+#: ../twentytwelve/content-none.php:17 ../twentytwelve/index.php:53
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../assyrian/content-page.php:23 ../assyrian/functions.php:1071
+#: ../assyrian/image.php:147
+#: ../assyrian/woocommerce/myaccount/my-address.php:45
+#: ../raboda/content-page.php:28 ../raboda/functions.php:1069
+#: ../raboda/image.php:127 ../raboda/page-templates/contact-page.php:131
+#: ../raboda/woocommerce/myaccount/my-address.php:45
+#: ../twentyfourteen/content-aside.php:40
+#: ../twentyfourteen/content-audio.php:40
+#: ../twentyfourteen/content-gallery.php:40
+#: ../twentyfourteen/content-image.php:40
+#: ../twentyfourteen/content-link.php:40 ../twentyfourteen/content-page.php:28
+#: ../twentyfourteen/content-quote.php:40
+#: ../twentyfourteen/content-video.php:40 ../twentyfourteen/content.php:42
+#: ../twentyfourteen/image.php:34
+#: ../twentyfourteen/page-templates/contributors.php:35
+#: ../twentythirteen/content-aside.php:20
+#: ../twentythirteen/content-aside.php:28
+#: ../twentythirteen/content-audio.php:31
+#: ../twentythirteen/content-chat.php:29
+#: ../twentythirteen/content-gallery.php:39
+#: ../twentythirteen/content-image.php:35
+#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-quote.php:25
+#: ../twentythirteen/content-status.php:19
+#: ../twentythirteen/content-video.php:35 ../twentythirteen/content.php:31
+#: ../twentythirteen/image.php:44 ../twentythirteen/page.php:39
+#: ../twentytwelve/content-aside.php:26 ../twentytwelve/content-image.php:26
+#: ../twentytwelve/content-link.php:24 ../twentytwelve/content-page.php:24
+#: ../twentytwelve/content-quote.php:23 ../twentytwelve/content-status.php:40
+#: ../twentytwelve/content.php:51 ../twentytwelve/functions.php:345
+#: ../twentytwelve/image.php:37
+msgid "Edit"
+msgstr ""
+
+#: ../assyrian/functions.php:152 ../raboda/functions.php:151
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../assyrian/functions.php:165 ../raboda/functions.php:164
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../assyrian/functions.php:300 ../raboda/functions.php:321
+msgid "In stock"
+msgstr ""
+
+#: ../assyrian/functions.php:302 ../raboda/functions.php:323
+msgid "Out of stock"
+msgstr ""
+
+#: ../assyrian/functions.php:323 ../assyrian/functions.php:336
+#: ../assyrian/functions.php:342 ../assyrian/functions.php:346
+#: ../raboda/functions.php:349 ../raboda/functions.php:362
+#: ../raboda/functions.php:368 ../raboda/functions.php:372
+msgid "Search..."
+msgstr ""
+
+#: ../assyrian/functions.php:364 ../assyrian/functions.php:377
+#: ../assyrian/functions.php:383 ../assyrian/functions.php:387
+#: ../raboda/functions.php:390 ../raboda/functions.php:403
+#: ../raboda/functions.php:409 ../raboda/functions.php:413
+msgid "Search product..."
+msgstr ""
+
+#: ../assyrian/functions.php:634 ../raboda/functions.php:628
+#: ../twentyfourteen/header.php:52 ../twentytwelve/functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: ../assyrian/functions.php:635
+msgid "Categories Menu"
+msgstr ""
+
+#: ../assyrian/functions.php:636 ../raboda/functions.php:629
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../assyrian/functions.php:682 ../raboda/functions.php:674
+#: ../twentyfourteen/functions.php:213 ../twentythirteen/functions.php:128
+#: ../twentythirteen/functions.php:134 ../twentytwelve/functions.php:101
+msgid "on"
+msgstr ""
+
+#: ../assyrian/functions.php:688 ../raboda/functions.php:680
+#: ../twentytwelve/functions.php:107
+msgid "no-subset"
+msgstr ""
+
+#: ../assyrian/functions.php:935 ../raboda/functions.php:923
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../assyrian/functions.php:937 ../raboda/functions.php:925
+msgid "Sidebar on blog page"
+msgstr ""
+
+#: ../assyrian/functions.php:945 ../raboda/functions.php:943
+msgid "Category Sidebar"
+msgstr ""
+
+#: ../assyrian/functions.php:947 ../raboda/functions.php:945
+msgid "Sidebar on product category page"
+msgstr ""
+
+#: ../assyrian/functions.php:955 ../raboda/functions.php:953
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../assyrian/functions.php:957 ../raboda/functions.php:955
+msgid "Sidebar on content pages"
+msgstr ""
+
+#: ../assyrian/functions.php:965 ../raboda/functions.php:963
+msgid "Contact Sidebar"
+msgstr ""
+
+#: ../assyrian/functions.php:967 ../raboda/functions.php:965
+msgid "Sidebar on contact page"
+msgstr ""
+
+#: ../assyrian/functions.php:989 ../assyrian/single.php:64
+#: ../raboda/functions.php:987 ../raboda/single.php:34
+#: ../twentyfourteen/inc/template-tags.php:80
+#: ../twentythirteen/functions.php:300 ../twentytwelve/functions.php:286
+#: ../twentytwelve/single.php:20
+msgid "Post navigation"
+msgstr ""
+
+#: ../assyrian/functions.php:990 ../raboda/functions.php:988
+#: ../twentythirteen/functions.php:270 ../twentytwelve/functions.php:287
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../assyrian/functions.php:991 ../raboda/functions.php:989
+#: ../twentythirteen/functions.php:274 ../twentytwelve/functions.php:288
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../assyrian/functions.php:1009 ../twentyfourteen/functions.php:254
+msgid "Previous"
+msgstr ""
+
+#: ../assyrian/functions.php:1010 ../twentyfourteen/functions.php:255
+msgid "Next"
+msgstr ""
+
+#: ../assyrian/functions.php:1034 ../raboda/functions.php:1032
+#: ../twentytwelve/functions.php:313
+msgid "Pingback:"
+msgstr ""
+
+#: ../assyrian/functions.php:1034 ../raboda/functions.php:1032
+#: ../twentytwelve/functions.php:313
+msgid "(Edit)"
+msgstr ""
+
+#: ../assyrian/functions.php:1053 ../raboda/functions.php:1051
+#: ../twentytwelve/functions.php:328
+msgid "Post author"
+msgstr ""
+
+#: ../assyrian/functions.php:1058 ../raboda/functions.php:1056
+#: ../twentytwelve/functions.php:334
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../assyrian/functions.php:1062 ../raboda/functions.php:1060
+#: ../twentytwelve/functions.php:349
+msgid "Reply"
+msgstr ""
+
+#: ../assyrian/functions.php:1066 ../raboda/functions.php:1064
+#: ../twentytwelve/functions.php:340
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../assyrian/functions.php:1109 ../assyrian/functions.php:1133
+#: ../raboda/functions.php:1106 ../raboda/functions.php:1109
+#: ../twentyfourteen/content-aside.php:17
+#: ../twentyfourteen/content-audio.php:17
+#: ../twentyfourteen/content-featured-post.php:28
+#: ../twentyfourteen/content-gallery.php:17
+#: ../twentyfourteen/content-image.php:17
+#: ../twentyfourteen/content-link.php:17
+#: ../twentyfourteen/content-quote.php:17
+#: ../twentyfourteen/content-video.php:17 ../twentyfourteen/content.php:19
+#: ../twentythirteen/functions.php:328 ../twentythirteen/functions.php:334
+#: ../twentytwelve/functions.php:370 ../twentytwelve/functions.php:373
+msgid ", "
+msgstr ""
+
+#: ../assyrian/functions.php:1115 ../raboda/functions.php:1128
+#: ../raboda/functions.php:1161
+#: ../raboda/plugins/roadthemes-helper/roadthemes-helper.php:136
+msgid "0 comments"
+msgstr ""
+
+#: ../assyrian/functions.php:1117 ../assyrian/functions.php:1162
+#: ../raboda/functions.php:1130 ../raboda/functions.php:1163
+#: ../raboda/plugins/roadthemes-helper/roadthemes-helper.php:138
+msgid " comments"
+msgstr ""
+
+#: ../assyrian/functions.php:1124
+#, php-format
+msgid "/ %1$s / Tags: %2$s"
+msgstr ""
+
+#: ../assyrian/functions.php:1137 ../raboda/functions.php:1120
+#: ../twentythirteen/functions.php:343 ../twentytwelve/functions.php:384
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../assyrian/functions.php:1141
+#, php-format
+msgid "/ Posted by %1$s / %2$s"
+msgstr ""
+
+#: ../assyrian/functions.php:1160
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: ../assyrian/functions.php:1164
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../assyrian/functions.php:1169
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../assyrian/functions.php:1182 ../raboda/functions.php:1183
+msgid "Post featured content"
+msgstr ""
+
+#: ../assyrian/functions.php:1202 ../raboda/functions.php:1203
+msgid ""
+"This content will be used to replace the featured image, use shortcode here"
+msgstr ""
+
+#: ../assyrian/header-first.php:22 ../assyrian/header-fourth.php:22
+#: ../assyrian/header-second.php:22 ../assyrian/header-third.php:22
+#: ../assyrian/page-templates/demo2.php:76
+#: ../assyrian/page-templates/demo3.php:76
+#: ../assyrian/page-templates/demo4.php:76 ../assyrian/theme-config.php:371
+#: ../assyrian/woocommerce/order/order-details.php:174
+#: ../assyrian/woocommerce/single-product-reviews.php:67
+#: ../raboda/woocommerce/order/order-details.php:174
+#: ../raboda/woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: ../assyrian/header-first.php:24 ../assyrian/header-fourth.php:24
+#: ../assyrian/header-second.php:24 ../assyrian/header-third.php:24
+#: ../assyrian/page-templates/demo2.php:78
+#: ../assyrian/page-templates/demo3.php:78
+#: ../assyrian/page-templates/demo4.php:78 ../assyrian/theme-config.php:377
+msgid "Phone"
+msgstr ""
+
+#: ../assyrian/header-first.php:96
+msgid "Category"
+msgstr ""
+
+#: ../assyrian/header-first.php:99
+msgid "More Categories"
+msgstr ""
+
+#: ../assyrian/header-first.php:100
+msgid "Close Menu"
+msgstr ""
+
+#: ../assyrian/header-first.php:110
+msgid "All Categories"
+msgstr ""
+
+#: ../assyrian/image.php:136 ../raboda/image.php:116
+#: ../twentytwelve/image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../assyrian/image.php:157 ../raboda/image.php:137
+#: ../twentyfourteen/inc/template-tags.php:45 ../twentytwelve/image.php:41
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../assyrian/image.php:158 ../raboda/image.php:138
+#: ../twentyfourteen/inc/template-tags.php:46 ../twentytwelve/image.php:42
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../assyrian/include/roadwidgets.php:8 ../raboda/include/roadwidgets.php:8
+msgid "Road Widgets"
+msgstr ""
+
+#: ../assyrian/include/roadwidgets.php:11 ../raboda/include/roadwidgets.php:11
+msgid "Display recent posts, comments, popular posts"
+msgstr ""
+
+#: ../assyrian/include/roadwidgets.php:104
+#: ../raboda/include/roadwidgets.php:104
+msgid "says"
+msgstr ""
+
+#: ../assyrian/include/roadwidgets.php:134
+#: ../raboda/include/roadwidgets.php:134 ../twentyfourteen/inc/widgets.php:255
+msgid "Title:"
+msgstr ""
+
+#: ../assyrian/include/roadwidgets.php:138
+#: ../raboda/include/roadwidgets.php:138
+msgid "Amount:"
+msgstr ""
+
+#: ../assyrian/include/roadwidgets.php:142
+#: ../raboda/include/roadwidgets.php:142
+msgid "Widget Type:"
+msgstr ""
+
+#: ../assyrian/include/roadwidgets.php:144
+#: ../raboda/include/roadwidgets.php:144
+msgid "Recent Posts"
+msgstr ""
+
+#: ../assyrian/include/roadwidgets.php:145
+#: ../raboda/include/roadwidgets.php:145
+msgid "Popular Posts"
+msgstr ""
+
+#: ../assyrian/include/roadwidgets.php:146
+#: ../raboda/include/roadwidgets.php:146
+msgid "Recent Comments"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:9 ../assyrian/theme-config.php:741
+#: ../raboda/include/shortcodes.php:9 ../raboda/theme-config.php:705
+msgid "Brand Logos"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:12 ../assyrian/include/shortcodes.php:21
+#: ../assyrian/include/shortcodes.php:58 ../assyrian/include/shortcodes.php:84
+#: ../assyrian/include/shortcodes.php:110
+#: ../assyrian/include/shortcodes.php:118
+#: ../assyrian/include/shortcodes.php:128 ../raboda/include/shortcodes.php:12
+#: ../raboda/include/shortcodes.php:21 ../raboda/include/shortcodes.php:58
+#: ../raboda/include/shortcodes.php:84 ../raboda/include/shortcodes.php:92
+#: ../raboda/include/shortcodes.php:102 ../raboda/include/shortcodes.php:121
+msgid "RoadThemes"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:18 ../raboda/include/shortcodes.php:18
+msgid "Latest posts"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:27 ../raboda/include/shortcodes.php:27
+msgid "Number of posts"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:29 ../raboda/include/shortcodes.php:29
+msgid "5"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:35 ../raboda/include/shortcodes.php:35
+msgid "Image scale"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:46 ../raboda/include/shortcodes.php:46
+msgid "Excerpt length"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:48 ../raboda/include/shortcodes.php:48
+msgid "20"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:55 ../assyrian/theme-config.php:1114
+#: ../raboda/include/shortcodes.php:55 ../raboda/theme-config.php:969
+msgid "Testimonials"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:64 ../raboda/include/shortcodes.php:64
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:66 ../raboda/include/shortcodes.php:66
+msgid "10"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:72 ../raboda/include/shortcodes.php:72
+msgid "Image size"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:74 ../raboda/include/shortcodes.php:74
+msgid "120"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:81 ../assyrian/include/shortcodes.php:92
+msgid "Skill"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:90
+msgid "Skill title"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:98
+msgid "Percent"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:100
+msgid "100"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:107 ../raboda/include/shortcodes.php:81
+msgid "Rotating tweets"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:116 ../raboda/include/shortcodes.php:90
+#: ../raboda/theme-config.php:435
+msgid "Twitter user name"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:125
+#: ../assyrian/include/shortcodes.php:134 ../raboda/include/shortcodes.php:99
+#: ../raboda/include/shortcodes.php:108
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:135 ../raboda/include/shortcodes.php:109
+msgid ""
+"<a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target="
+"\"_blank\">Go here</a> to get icon class. Example: fa-search"
+msgstr ""
+
+#: ../assyrian/include/shortcodes.php:137 ../raboda/include/shortcodes.php:111
+msgid "fa-search"
+msgstr ""
+
+#: ../assyrian/include/wooajax.php:101
+#: ../assyrian/woocommerce/cart/mini-cart.php:24
+#, php-format
+msgid "%d item"
+msgstr ""
+
+#: ../assyrian/include/wooajax.php:118 ../raboda/include/wooajax.php:119
+msgid "Product is added to cart"
+msgstr ""
+
+#: ../assyrian/include/wooajax.php:129
+#: ../assyrian/woocommerce/cart/mini-cart.php:78
+#: ../raboda/include/wooajax.php:130
+#: ../raboda/woocommerce/cart/mini-cart.php:78
+msgid "View Cart"
+msgstr ""
+
+#: ../assyrian/index.php:89 ../raboda/index.php:65
+#: ../twentytwelve/index.php:38
+msgid "No posts to display"
+msgstr ""
+
+#: ../assyrian/index.php:93 ../raboda/index.php:69
+#: ../twentytwelve/index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../assyrian/projects/archive-project.php:19
+#: ../assyrian/projects/content-single-project.php:18
+#: ../assyrian/theme-config.php:866
+msgid "Portfolio"
+msgstr ""
+
+#: ../assyrian/projects/archive-project.php:72
+#: ../assyrian/woocommerce/archive-product.php:80
+msgid "All"
+msgstr ""
+
+#: ../assyrian/search.php:64 ../raboda/search.php:44
+#: ../twentyfourteen/search.php:18 ../twentythirteen/search.php:18
+#: ../twentytwelve/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../assyrian/search.php:84 ../raboda/search.php:64
+#: ../twentytwelve/search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../assyrian/single.php:65 ../raboda/single.php:35
+#: ../twentytwelve/single.php:21
+msgid "&larr;"
+msgstr ""
+
+#: ../assyrian/single.php:66 ../raboda/single.php:36
+#: ../twentytwelve/single.php:22
+msgid "&rarr;"
+msgstr ""
+
+#: ../assyrian/tag.php:67 ../raboda/tag.php:47 ../twentyfourteen/tag.php:22
+#: ../twentythirteen/tag.php:21 ../twentytwelve/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../assyrian/theme-config.php:114 ../raboda/theme-config.php:114
+msgid "Section via hook"
+msgstr ""
+
+#: ../assyrian/theme-config.php:115 ../raboda/theme-config.php:115
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../assyrian/theme-config.php:193 ../raboda/theme-config.php:193
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../assyrian/theme-config.php:210 ../raboda/theme-config.php:210
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../assyrian/theme-config.php:211 ../raboda/theme-config.php:211
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../assyrian/theme-config.php:212 ../raboda/theme-config.php:212
+msgid "Tags"
+msgstr ""
+
+#: ../assyrian/theme-config.php:217 ../raboda/theme-config.php:217
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../assyrian/theme-config.php:217 ../raboda/theme-config.php:217
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../assyrian/theme-config.php:240 ../raboda/theme-config.php:240
+msgid "General"
+msgstr ""
+
+#: ../assyrian/theme-config.php:241 ../raboda/theme-config.php:241
+msgid "General theme options"
+msgstr ""
+
+#: ../assyrian/theme-config.php:248 ../raboda/theme-config.php:248
+msgid "Logo"
+msgstr ""
+
+#: ../assyrian/theme-config.php:251 ../raboda/theme-config.php:251
+msgid "Upload logo here."
+msgstr ""
+
+#: ../assyrian/theme-config.php:256 ../raboda/theme-config.php:264
+msgid "Favicon"
+msgstr ""
+
+#: ../assyrian/theme-config.php:259 ../raboda/theme-config.php:267
+msgid "Upload favicon here."
+msgstr ""
+
+#: ../assyrian/theme-config.php:264
+msgid "Image 404"
+msgstr ""
+
+#: ../assyrian/theme-config.php:265
+msgid "Image for error 404 page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:273 ../raboda/theme-config.php:273
+msgid "Background"
+msgstr ""
+
+#: ../assyrian/theme-config.php:274 ../raboda/theme-config.php:274
+msgid "Use this section to upload background images, select background color"
+msgstr ""
+
+#: ../assyrian/theme-config.php:282 ../raboda/theme-config.php:282
+msgid "Body Background"
+msgstr ""
+
+#: ../assyrian/theme-config.php:283 ../raboda/theme-config.php:283
+msgid "Body background with image, color. Only work with box layout"
+msgstr ""
+
+#: ../assyrian/theme-config.php:290
+msgid "About header background"
+msgstr ""
+
+#: ../assyrian/theme-config.php:297 ../raboda/theme-config.php:290
+msgid "Colors"
+msgstr ""
+
+#: ../assyrian/theme-config.php:298 ../raboda/theme-config.php:291
+msgid "Color options"
+msgstr ""
+
+#: ../assyrian/theme-config.php:304 ../raboda/theme-config.php:297
+msgid "Primary Color"
+msgstr ""
+
+#: ../assyrian/theme-config.php:305
+msgid "Pick a color for primary color (default: #ff8787)."
+msgstr ""
+
+#: ../assyrian/theme-config.php:315 ../raboda/theme-config.php:308
+msgid "Sale Label BG Color"
+msgstr ""
+
+#: ../assyrian/theme-config.php:316
+msgid "Pick a color for bg sale label (default: #222222)."
+msgstr ""
+
+#: ../assyrian/theme-config.php:326 ../raboda/theme-config.php:319
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../assyrian/theme-config.php:327 ../raboda/theme-config.php:320
+msgid "Pick a color for sale label text (default: #ffffff)."
+msgstr ""
+
+#: ../assyrian/theme-config.php:337 ../raboda/theme-config.php:330
+msgid "Rating Star Color"
+msgstr ""
+
+#: ../assyrian/theme-config.php:338
+msgid "Pick a color for star of rating (default: #222222)."
+msgstr ""
+
+#: ../assyrian/theme-config.php:348 ../raboda/theme-config.php:347
+msgid "Header"
+msgstr ""
+
+#: ../assyrian/theme-config.php:349 ../raboda/theme-config.php:348
+msgid "Header options"
+msgstr ""
+
+#: ../assyrian/theme-config.php:356 ../raboda/theme-config.php:355
+msgid "Header Layout"
+msgstr ""
+
+#: ../assyrian/theme-config.php:384 ../raboda/theme-config.php:373
+msgid "Top Menu"
+msgstr ""
+
+#: ../assyrian/theme-config.php:385 ../assyrian/theme-config.php:575
+#: ../assyrian/theme-config.php:582 ../assyrian/theme-config.php:589
+#: ../assyrian/theme-config.php:596 ../raboda/theme-config.php:374
+#: ../raboda/theme-config.php:542 ../raboda/theme-config.php:549
+#: ../raboda/theme-config.php:556 ../raboda/theme-config.php:563
+msgid "Select a menu"
+msgstr ""
+
+#: ../assyrian/theme-config.php:390
+msgid "Categories menu label"
+msgstr ""
+
+#: ../assyrian/theme-config.php:391
+msgid "The label for categories menu"
+msgstr ""
+
+#: ../assyrian/theme-config.php:397
+msgid "Number of items"
+msgstr ""
+
+#: ../assyrian/theme-config.php:398
+msgid "Number of menu items level 1 to show, default value: 8"
+msgstr ""
+
+#: ../assyrian/theme-config.php:408
+msgid "More Categories label"
+msgstr ""
+
+#: ../assyrian/theme-config.php:409
+msgid "The label for more categories button"
+msgstr ""
+
+#: ../assyrian/theme-config.php:415
+msgid "Less Categories label"
+msgstr ""
+
+#: ../assyrian/theme-config.php:416
+msgid "The label for less categories button"
+msgstr ""
+
+#: ../assyrian/theme-config.php:422
+msgid "Home Categories Menu"
+msgstr ""
+
+#: ../assyrian/theme-config.php:423
+msgid "Always show categories menu on home page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:429
+msgid "Inner Categories Menu"
+msgstr ""
+
+#: ../assyrian/theme-config.php:430
+msgid "Always show categories menu on inner pages"
+msgstr ""
+
+#: ../assyrian/theme-config.php:436 ../raboda/theme-config.php:385
+msgid "Mobile menu label"
+msgstr ""
+
+#: ../assyrian/theme-config.php:437 ../raboda/theme-config.php:386
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr ""
+
+#: ../assyrian/theme-config.php:445 ../raboda/theme-config.php:394
+msgid "Footer"
+msgstr ""
+
+#: ../assyrian/theme-config.php:446 ../raboda/theme-config.php:395
+msgid "Footer options"
+msgstr ""
+
+#: ../assyrian/theme-config.php:453 ../raboda/theme-config.php:442
+msgid "Copyright information"
+msgstr ""
+
+#: ../assyrian/theme-config.php:454 ../raboda/theme-config.php:443
+msgid "HTML tags allowed: a, br, em, strong"
+msgstr ""
+
+#: ../assyrian/theme-config.php:465 ../raboda/theme-config.php:454
+msgid "Payment icons"
+msgstr ""
+
+#: ../assyrian/theme-config.php:466 ../raboda/theme-config.php:455
+msgid "HTML tags allowed: a, img"
+msgstr ""
+
+#: ../assyrian/theme-config.php:478 ../raboda/include/shortcodes.php:118
+msgid "Newsletter"
+msgstr ""
+
+#: ../assyrian/theme-config.php:484
+msgid "Newsletter title"
+msgstr ""
+
+#: ../assyrian/theme-config.php:490
+msgid "Newsletter form ID"
+msgstr ""
+
+#: ../assyrian/theme-config.php:491
+msgid "The form ID of MailPoet plugin."
+msgstr ""
+
+#: ../assyrian/theme-config.php:500 ../assyrian/theme-config.php:512
+#: ../raboda/theme-config.php:467 ../raboda/theme-config.php:479
+msgid "Social Icons"
+msgstr ""
+
+#: ../assyrian/theme-config.php:506 ../raboda/theme-config.php:473
+msgid "Follow Us title"
+msgstr ""
+
+#: ../assyrian/theme-config.php:513 ../raboda/theme-config.php:480
+msgid "Enter social links"
+msgstr ""
+
+#: ../assyrian/theme-config.php:514 ../raboda/theme-config.php:481
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#: ../assyrian/theme-config.php:547 ../assyrian/theme-config.php:559
+#: ../raboda/theme-config.php:514 ../raboda/theme-config.php:526
+msgid "Contact Us"
+msgstr ""
+
+#: ../assyrian/theme-config.php:553 ../raboda/theme-config.php:520
+msgid "Contact Us title"
+msgstr ""
+
+#: ../assyrian/theme-config.php:560 ../raboda/theme-config.php:527
+msgid "HTML tags allowed: a, img, br, em, strong, p, ul, li"
+msgstr ""
+
+#: ../assyrian/theme-config.php:567 ../raboda/theme-config.php:534
+msgid "Menus"
+msgstr ""
+
+#: ../assyrian/theme-config.php:574 ../raboda/theme-config.php:541
+msgid "Menu #1"
+msgstr ""
+
+#: ../assyrian/theme-config.php:581 ../raboda/theme-config.php:548
+msgid "Menu #2"
+msgstr ""
+
+#: ../assyrian/theme-config.php:588 ../raboda/theme-config.php:555
+msgid "Menu #3"
+msgstr ""
+
+#: ../assyrian/theme-config.php:595 ../raboda/theme-config.php:562
+msgid "Menu Bottom"
+msgstr ""
+
+#: ../assyrian/theme-config.php:603 ../raboda/theme-config.php:570
+msgid "Fonts"
+msgstr ""
+
+#: ../assyrian/theme-config.php:604 ../raboda/theme-config.php:571
+msgid "Fonts options"
+msgstr ""
+
+#: ../assyrian/theme-config.php:611 ../raboda/theme-config.php:578
+msgid "Body font"
+msgstr ""
+
+#: ../assyrian/theme-config.php:628 ../raboda/theme-config.php:594
+msgid "Main body font."
+msgstr ""
+
+#: ../assyrian/theme-config.php:640 ../raboda/theme-config.php:606
+msgid "Heading font"
+msgstr ""
+
+#: ../assyrian/theme-config.php:657 ../raboda/theme-config.php:623
+msgid "Heading font."
+msgstr ""
+
+#: ../assyrian/theme-config.php:668 ../raboda/theme-config.php:634
+msgid "Menu font"
+msgstr ""
+
+#: ../assyrian/theme-config.php:685 ../raboda/theme-config.php:651
+msgid "Menu font."
+msgstr ""
+
+#: ../assyrian/theme-config.php:698 ../raboda/theme-config.php:664
+#: ../twentyfourteen/inc/customizer.php:50
+msgid "Layout"
+msgstr ""
+
+#: ../assyrian/theme-config.php:699 ../raboda/theme-config.php:665
+msgid "Select page layout: Box or Full Width"
+msgstr ""
+
+#: ../assyrian/theme-config.php:706 ../raboda/theme-config.php:672
+msgid "Page Layout"
+msgstr ""
+
+#: ../assyrian/theme-config.php:716 ../raboda/theme-config.php:682
+msgid "Preset"
+msgstr ""
+
+#: ../assyrian/theme-config.php:717 ../raboda/theme-config.php:683
+msgid "Select a preset to quickly apply pre-defined colors and fonts"
+msgstr ""
+
+#: ../assyrian/theme-config.php:732 ../raboda/theme-config.php:696
+msgid "Show Style Switcher"
+msgstr ""
+
+#: ../assyrian/theme-config.php:733 ../raboda/theme-config.php:697
+msgid "The style switcher is only for preview on front-end"
+msgstr ""
+
+#: ../assyrian/theme-config.php:742 ../raboda/theme-config.php:706
+msgid "Upload brand logos and links"
+msgstr ""
+
+#: ../assyrian/theme-config.php:748 ../raboda/theme-config.php:712
+msgid "Brand title"
+msgstr ""
+
+#: ../assyrian/theme-config.php:754 ../raboda/theme-config.php:718
+msgid "Number of logos per page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:755 ../raboda/theme-config.php:719
+msgid "Number of logos per page, default value: 6"
+msgstr ""
+
+#: ../assyrian/theme-config.php:765 ../assyrian/theme-config.php:1121
+#: ../raboda/theme-config.php:729 ../raboda/theme-config.php:976
+msgid "Auto scroll"
+msgstr ""
+
+#: ../assyrian/theme-config.php:771 ../raboda/theme-config.php:735
+msgid "Scroll amount"
+msgstr ""
+
+#: ../assyrian/theme-config.php:772 ../raboda/theme-config.php:736
+msgid "Number of logos to scroll one time, default value: 2"
+msgstr ""
+
+#: ../assyrian/theme-config.php:782 ../assyrian/theme-config.php:1090
+#: ../assyrian/theme-config.php:1127 ../raboda/theme-config.php:746
+#: ../raboda/theme-config.php:945 ../raboda/theme-config.php:982
+msgid "Pause in (seconds)"
+msgstr ""
+
+#: ../assyrian/theme-config.php:783 ../assyrian/theme-config.php:1091
+#: ../assyrian/theme-config.php:1128 ../raboda/theme-config.php:747
+#: ../raboda/theme-config.php:946 ../raboda/theme-config.php:983
+msgid "Pause time, default value: 3000"
+msgstr ""
+
+#: ../assyrian/theme-config.php:793 ../assyrian/theme-config.php:1101
+#: ../assyrian/theme-config.php:1138 ../raboda/theme-config.php:757
+#: ../raboda/theme-config.php:956 ../raboda/theme-config.php:993
+msgid "Animate in (seconds)"
+msgstr ""
+
+#: ../assyrian/theme-config.php:794 ../assyrian/theme-config.php:1102
+#: ../assyrian/theme-config.php:1139 ../raboda/theme-config.php:758
+#: ../raboda/theme-config.php:957 ../raboda/theme-config.php:994
+msgid "Animate time, default value: 2000"
+msgstr ""
+
+#: ../assyrian/theme-config.php:804 ../raboda/theme-config.php:768
+msgid "Logos"
+msgstr ""
+
+#: ../assyrian/theme-config.php:805 ../raboda/theme-config.php:769
+msgid "Upload logo image and enter logo link."
+msgstr ""
+
+#: ../assyrian/theme-config.php:807
+#: ../assyrian/woocommerce/class-wc-widget-cart.php:30
+#: ../raboda/theme-config.php:771
+#: ../raboda/woocommerce/class-wc-widget-cart.php:30
+msgid "Title"
+msgstr ""
+
+#: ../assyrian/theme-config.php:808 ../raboda/theme-config.php:772
+msgid "Description"
+msgstr ""
+
+#: ../assyrian/theme-config.php:809 ../raboda/theme-config.php:773
+#: ../twentytwelve/content-link.php:12
+msgid "Link"
+msgstr ""
+
+#: ../assyrian/theme-config.php:817 ../raboda/theme-config.php:781
+msgid "Sidebar"
+msgstr ""
+
+#: ../assyrian/theme-config.php:818 ../raboda/theme-config.php:782
+msgid "Sidebar options"
+msgstr ""
+
+#: ../assyrian/theme-config.php:824 ../raboda/theme-config.php:788
+msgid "Main Sidebar Position"
+msgstr ""
+
+#: ../assyrian/theme-config.php:825 ../raboda/theme-config.php:789
+msgid "Sidebar on category page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:834 ../raboda/theme-config.php:798
+msgid "Secondary Sidebar Position"
+msgstr ""
+
+#: ../assyrian/theme-config.php:835 ../raboda/theme-config.php:799
+msgid "Sidebar on pages"
+msgstr ""
+
+#: ../assyrian/theme-config.php:844 ../raboda/theme-config.php:808
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../assyrian/theme-config.php:845 ../raboda/theme-config.php:809
+msgid "Sidebar on Blog pages"
+msgstr ""
+
+#: ../assyrian/theme-config.php:854 ../raboda/theme-config.php:818
+msgid "Contact Sidebar Position"
+msgstr ""
+
+#: ../assyrian/theme-config.php:855 ../raboda/theme-config.php:819
+msgid "Sidebar on Contact page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:867
+msgid "Use this section to select options for portfolio"
+msgstr ""
+
+#: ../assyrian/theme-config.php:874
+msgid "Portfolio header background"
+msgstr ""
+
+#: ../assyrian/theme-config.php:880
+msgid "Portfolio Columns"
+msgstr ""
+
+#: ../assyrian/theme-config.php:890
+msgid "Projects per page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:891
+msgid "Amount of projects per page on portfolio page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:901
+msgid "Related projects title"
+msgstr ""
+
+#: ../assyrian/theme-config.php:909 ../assyrian/woocommerce/cart/cart.php:26
+#: ../assyrian/woocommerce/checkout/review-order.php:17
+#: ../assyrian/woocommerce/order/order-details.php:21
+#: ../raboda/theme-config.php:830 ../raboda/woocommerce/cart/cart.php:26
+#: ../raboda/woocommerce/checkout/review-order.php:17
+#: ../raboda/woocommerce/order/order-details.php:21
+msgid "Product"
+msgstr ""
+
+#: ../assyrian/theme-config.php:910 ../raboda/theme-config.php:831
+msgid "Use this section to select options for product"
+msgstr ""
+
+#: ../assyrian/theme-config.php:916
+msgid "Shop Layout"
+msgstr ""
+
+#: ../assyrian/theme-config.php:927
+msgid "Shop default view"
+msgstr ""
+
+#: ../assyrian/theme-config.php:938 ../raboda/theme-config.php:837
+msgid "Products per page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:939 ../raboda/theme-config.php:838
+msgid "Amount of products per page on category page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:949
+msgid "Product columns"
+msgstr ""
+
+#: ../assyrian/theme-config.php:950
+msgid "Amount of product columns on category page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:951 ../assyrian/theme-config.php:963
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr ""
+
+#: ../assyrian/theme-config.php:961
+msgid "Product columns on full width shop"
+msgstr ""
+
+#: ../assyrian/theme-config.php:962
+msgid "Amount of product columns on full width category page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:973
+msgid "Use secondary product image"
+msgstr ""
+
+#: ../assyrian/theme-config.php:979 ../raboda/theme-config.php:859
+msgid "Related products title"
+msgstr ""
+
+#: ../assyrian/theme-config.php:985 ../raboda/theme-config.php:865
+msgid "Number of related products"
+msgstr ""
+
+#: ../assyrian/theme-config.php:995 ../raboda/theme-config.php:875
+msgid "Up-Sells title"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1001 ../raboda/theme-config.php:881
+msgid "Cross-Sells title"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1007 ../raboda/theme-config.php:887
+msgid "View details text"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1013 ../raboda/theme-config.php:893
+msgid "View all features text"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1014 ../raboda/theme-config.php:894
+msgid "This is the text on quick view box"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1020 ../raboda/theme-config.php:900
+msgid "ShareThis/AddThis head tag"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1021 ../raboda/theme-config.php:901
+msgid "Paste your ShareThis or AddThis head tag here"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1027 ../raboda/theme-config.php:907
+msgid "ShareThis/AddThis code"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1028 ../raboda/theme-config.php:908
+msgid "Paste your ShareThis or AddThis code here"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1037 ../raboda/theme-config.php:917
+msgid "Use this section to select options for blog"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1044
+msgid "Blog header background"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1050
+msgid "Blog header text"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1056
+msgid "Blog Layout"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1068 ../raboda/theme-config.php:923
+msgid "Read more text"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1074 ../raboda/theme-config.php:929
+msgid "Excerpt length on blog page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1084 ../raboda/theme-config.php:939
+msgid "Latest posts auto scroll"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1115 ../raboda/theme-config.php:970
+msgid "Use this section to select options for Testimonials"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1151 ../raboda/theme-config.php:1006
+msgid "Contact Map"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1152 ../raboda/theme-config.php:1007
+msgid "Use this section to select options for Google Map on contact page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1158 ../raboda/theme-config.php:1013
+msgid "Show map"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1159 ../raboda/theme-config.php:1014
+msgid "Show map on contact page"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1165 ../raboda/theme-config.php:1020
+msgid "Locate by"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1166 ../raboda/theme-config.php:1021
+msgid "Locate marker by address or coordinate"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1176 ../raboda/theme-config.php:1031
+msgid "Map description"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1177 ../raboda/theme-config.php:1032
+msgid "The text on map popup"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1188
+msgid "Custom text"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1189
+msgid "The custom text under the map"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1200 ../raboda/theme-config.php:1043
+msgid "Latitude"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1206 ../raboda/theme-config.php:1049
+msgid "Longtitude"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1212 ../raboda/theme-config.php:1055
+msgid "Address"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1218 ../raboda/theme-config.php:1061
+msgid "Zoom level"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1228 ../raboda/theme-config.php:1071
+msgid "Marker"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1231 ../raboda/theme-config.php:1074
+msgid "Upload marker image here, the image size is 32x47 pixels."
+msgstr ""
+
+#: ../assyrian/theme-config.php:1238 ../raboda/theme-config.php:1081
+msgid "Custom CSS"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1239 ../raboda/theme-config.php:1082
+msgid "Add your Custom CSS code"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1245 ../raboda/theme-config.php:1088
+msgid "CSS Code"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1246 ../raboda/theme-config.php:1089
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../assyrian/theme-config.php:1256 ../raboda/theme-config.php:1099
+msgid "Less Compiler"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1257 ../raboda/theme-config.php:1100
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have "
+"finished changing theme options and your site is ready."
+msgstr ""
+
+#: ../assyrian/theme-config.php:1263 ../raboda/theme-config.php:1106
+msgid "Enable Less Compiler"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1270 ../raboda/theme-config.php:1113
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../assyrian/theme-config.php:1271 ../raboda/theme-config.php:1114
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../assyrian/theme-config.php:1272 ../raboda/theme-config.php:1115
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../assyrian/theme-config.php:1276 ../raboda/theme-config.php:1119
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../assyrian/theme-config.php:1282 ../raboda/theme-config.php:1125
+msgid "Customizer Only"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1283 ../raboda/theme-config.php:1126
+msgid ""
+"<p class=\"description\">This Section should be visible only in Customizer</"
+"p>"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1289 ../raboda/theme-config.php:1132
+msgid "Customizer Only Option"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1290 ../raboda/theme-config.php:1133
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1291 ../raboda/theme-config.php:1134
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: ../assyrian/theme-config.php:1306 ../raboda/theme-config.php:1149
+msgid "Import / Export"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1307 ../raboda/theme-config.php:1150
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../assyrian/theme-config.php:1322 ../raboda/theme-config.php:1165
+msgid "Theme Information"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1339 ../raboda/theme-config.php:1182
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1340 ../assyrian/theme-config.php:1346
+#: ../raboda/theme-config.php:1183 ../raboda/theme-config.php:1189
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1345 ../raboda/theme-config.php:1188
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1350 ../raboda/theme-config.php:1193
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../assyrian/theme-config.php:1370 ../assyrian/theme-config.php:1371
+#: ../raboda/theme-config.php:1213 ../raboda/theme-config.php:1214
+msgid "Theme Options"
+msgstr ""
+
+#: ../assyrian/woocommerce/archive-product.php:62
+msgid "Shop All Products"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:25
+#: ../raboda/woocommerce/cart/cart.php:25
+msgid "Image"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:27
+#: ../raboda/woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:28
+#: ../raboda/woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:29
+#: ../assyrian/woocommerce/checkout/review-order.php:18
+#: ../assyrian/woocommerce/myaccount/my-orders.php:35
+#: ../assyrian/woocommerce/myaccount/my-orders.php:58
+#: ../assyrian/woocommerce/order/order-details.php:22
+#: ../raboda/woocommerce/cart/cart.php:29
+#: ../raboda/woocommerce/checkout/review-order.php:18
+#: ../raboda/woocommerce/myaccount/my-orders.php:35
+#: ../raboda/woocommerce/myaccount/my-orders.php:58
+#: ../raboda/woocommerce/order/order-details.php:22
+msgid "Total"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:30
+#: ../raboda/woocommerce/cart/cart.php:30
+msgid "Remove"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:68
+#: ../raboda/woocommerce/cart/cart.php:68
+msgid "Available on backorder"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:105
+#: ../assyrian/woocommerce/cart/mini-cart.php:52
+#: ../raboda/woocommerce/cart/cart.php:105
+#: ../raboda/woocommerce/cart/mini-cart.php:52
+msgid "Remove this item"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:121
+#: ../raboda/woocommerce/cart/cart.php:121
+msgid "Update Cart"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:122
+#: ../raboda/woocommerce/cart/cart.php:122
+msgid "Continue Shopping"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:126
+#: ../raboda/woocommerce/cart/cart.php:126
+msgid "Coupon"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:127
+#: ../raboda/woocommerce/cart/cart.php:127
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:128
+#: ../raboda/woocommerce/cart/cart.php:128
+msgid "Coupon code"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cart.php:129
+#: ../raboda/woocommerce/cart/cart.php:129
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/cross-sells.php:40
+#: ../raboda/woocommerce/cart/cross-sells.php:40
+msgid ""
+"Base on your selection, you may be interested in the \n"
+"following items:"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/mini-cart.php:21
+msgid "My cart: "
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/mini-cart.php:65
+#: ../raboda/woocommerce/cart/mini-cart.php:65
+msgid "You have no items in your shopping cart"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/mini-cart.php:66
+#: ../assyrian/woocommerce/cart/mini-cart.php:72
+#: ../raboda/woocommerce/cart/mini-cart.php:66
+#: ../raboda/woocommerce/cart/mini-cart.php:72
+msgid "Subtotal"
+msgstr ""
+
+#: ../assyrian/woocommerce/cart/mini-cart.php:77
+#: ../raboda/woocommerce/cart/mini-cart.php:77
+msgid "Checkout"
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/form-checkout.php:20
+#: ../raboda/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/form-checkout.php:49
+#: ../raboda/woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/form-login.php:14
+#: ../raboda/woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/form-login.php:15
+#: ../raboda/woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/form-login.php:22
+#: ../raboda/woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/review-order.php:50
+#: ../raboda/woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/review-order.php:97
+#: ../raboda/woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/thankyou.php:16
+#: ../raboda/woocommerce/checkout/thankyou.php:16
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/thankyou.php:20
+#: ../raboda/woocommerce/checkout/thankyou.php:20
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/thankyou.php:22
+#: ../raboda/woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/thankyou.php:26
+#: ../assyrian/woocommerce/myaccount/my-orders.php:68
+#: ../raboda/woocommerce/checkout/thankyou.php:26
+#: ../raboda/woocommerce/myaccount/my-orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/thankyou.php:28
+#: ../raboda/woocommerce/checkout/thankyou.php:28
+msgid "My Account"
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/thankyou.php:34
+#: ../assyrian/woocommerce/checkout/thankyou.php:65
+#: ../raboda/woocommerce/checkout/thankyou.php:34
+#: ../raboda/woocommerce/checkout/thankyou.php:65
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/thankyou.php:38
+#: ../raboda/woocommerce/checkout/thankyou.php:38
+msgid "Order:"
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/thankyou.php:42
+#: ../raboda/woocommerce/checkout/thankyou.php:42
+msgid "Date:"
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/thankyou.php:46
+#: ../raboda/woocommerce/checkout/thankyou.php:46
+msgid "Total:"
+msgstr ""
+
+#: ../assyrian/woocommerce/checkout/thankyou.php:51
+#: ../raboda/woocommerce/checkout/thankyou.php:51
+msgid "Payment method:"
+msgstr ""
+
+#: ../assyrian/woocommerce/class-wc-widget-cart.php:23
+#: ../raboda/woocommerce/class-wc-widget-cart.php:23
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../assyrian/woocommerce/class-wc-widget-cart.php:25
+#: ../raboda/woocommerce/class-wc-widget-cart.php:25
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../assyrian/woocommerce/class-wc-widget-cart.php:29
+#: ../assyrian/woocommerce/class-wc-widget-cart.php:54
+#: ../raboda/woocommerce/class-wc-widget-cart.php:29
+#: ../raboda/woocommerce/class-wc-widget-cart.php:54
+msgid "Cart"
+msgstr ""
+
+#: ../assyrian/woocommerce/class-wc-widget-cart.php:35
+#: ../raboda/woocommerce/class-wc-widget-cart.php:35
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../assyrian/woocommerce/loop/orderby.php:14
+#: ../raboda/woocommerce/loop/orderby.php:14
+msgid "Sort By"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-login.php:29
+#: ../assyrian/woocommerce/myaccount/form-login.php:49
+#: ../raboda/woocommerce/myaccount/form-login.php:29
+#: ../raboda/woocommerce/myaccount/form-login.php:49
+msgid "Login"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-login.php:34
+#: ../raboda/woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-login.php:38
+#: ../assyrian/woocommerce/myaccount/form-login.php:88
+#: ../raboda/woocommerce/myaccount/form-login.php:38
+#: ../raboda/woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-login.php:47
+#: ../raboda/woocommerce/myaccount/form-login.php:47
+msgid "Lost your password?"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-login.php:51
+#: ../raboda/woocommerce/myaccount/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-login.php:67
+#: ../assyrian/woocommerce/myaccount/form-login.php:104
+#: ../raboda/woocommerce/myaccount/form-login.php:67
+#: ../raboda/woocommerce/myaccount/form-login.php:104
+msgid "Register"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-login.php:74
+#: ../raboda/woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-login.php:81
+#: ../raboda/woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-login.php:95
+#: ../raboda/woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-lost-password.php:22
+#: ../raboda/woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-lost-password.php:24
+#: ../raboda/woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-lost-password.php:28
+#: ../raboda/woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-lost-password.php:31
+#: ../raboda/woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-lost-password.php:35
+#: ../raboda/woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-lost-password.php:48
+#: ../raboda/woocommerce/myaccount/form-lost-password.php:48
+msgid "Reset Password"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/form-lost-password.php:48
+#: ../raboda/woocommerce/myaccount/form-lost-password.php:48
+msgid "Save"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-address.php:17
+#: ../raboda/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-address.php:19
+#: ../assyrian/woocommerce/myaccount/my-address.php:25
+#: ../assyrian/woocommerce/order/order-details.php:196
+#: ../raboda/woocommerce/myaccount/my-address.php:19
+#: ../raboda/woocommerce/myaccount/my-address.php:25
+#: ../raboda/woocommerce/order/order-details.php:196
+msgid "Billing Address"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-address.php:20
+#: ../assyrian/woocommerce/order/order-details.php:215
+#: ../raboda/woocommerce/myaccount/my-address.php:20
+#: ../raboda/woocommerce/order/order-details.php:215
+msgid "Shipping Address"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-address.php:23
+#: ../raboda/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-address.php:35
+#: ../raboda/woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-address.php:64
+#: ../raboda/woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-downloads.php:20
+#: ../raboda/woocommerce/myaccount/my-downloads.php:20
+msgid "Available downloads"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-downloads.php:29
+#: ../raboda/woocommerce/myaccount/my-downloads.php:29
+#, php-format
+msgid "%s download remaining"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-orders.php:26
+#: ../raboda/woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-orders.php:32
+#: ../raboda/woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-orders.php:33
+#: ../assyrian/woocommerce/myaccount/my-orders.php:52
+#: ../raboda/woocommerce/myaccount/my-orders.php:33
+#: ../raboda/woocommerce/myaccount/my-orders.php:52
+msgid "Date"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-orders.php:47
+#: ../raboda/woocommerce/myaccount/my-orders.php:47
+msgid "Order Number"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-orders.php:59
+#: ../raboda/woocommerce/myaccount/my-orders.php:59
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-orders.php:75
+#: ../raboda/woocommerce/myaccount/my-orders.php:75
+msgid "Cancel"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/my-orders.php:81
+#: ../raboda/woocommerce/myaccount/my-orders.php:81
+msgid "View"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/view-order.php:19
+#: ../raboda/woocommerce/myaccount/view-order.php:19
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/view-order.php:23
+#: ../raboda/woocommerce/myaccount/view-order.php:23
+msgid "Order Updates"
+msgstr ""
+
+#: ../assyrian/woocommerce/myaccount/view-order.php:29
+#: ../raboda/woocommerce/myaccount/view-order.php:29
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../assyrian/woocommerce/order/order-details.php:17
+#: ../raboda/woocommerce/order/order-details.php:17
+msgid "Order Details"
+msgstr ""
+
+#: ../assyrian/woocommerce/order/order-details.php:60
+#: ../raboda/woocommerce/order/order-details.php:60
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../assyrian/woocommerce/order/order-details.php:126
+#: ../assyrian/woocommerce/order/order-details.php:130
+#: ../raboda/woocommerce/order/order-details.php:126
+#: ../raboda/woocommerce/order/order-details.php:130
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: ../assyrian/woocommerce/order/order-details.php:148
+#: ../raboda/woocommerce/order/order-details.php:148
+msgid "Refunded:"
+msgstr ""
+
+#: ../assyrian/woocommerce/order/order-details.php:157
+#: ../raboda/woocommerce/order/order-details.php:157
+msgid "Note:"
+msgstr ""
+
+#: ../assyrian/woocommerce/order/order-details.php:167
+#: ../raboda/woocommerce/order/order-details.php:167
+msgid "Customer details"
+msgstr ""
+
+#: ../assyrian/woocommerce/order/order-details.php:174
+#: ../raboda/woocommerce/order/order-details.php:174
+msgid "Email:"
+msgstr ""
+
+#: ../assyrian/woocommerce/order/order-details.php:178
+#: ../raboda/woocommerce/order/order-details.php:178
+msgid "Telephone:"
+msgstr ""
+
+#: ../assyrian/woocommerce/order/order-details.php:178
+#: ../raboda/woocommerce/order/order-details.php:178
+msgid "Telephone"
+msgstr ""
+
+#: ../assyrian/woocommerce/order/order-details.php:201
+#: ../assyrian/woocommerce/order/order-details.php:220
+#: ../raboda/woocommerce/order/order-details.php:201
+#: ../raboda/woocommerce/order/order-details.php:220
+msgid "N/A"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:24
+#: ../raboda/woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:26
+#: ../raboda/woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:47
+#: ../raboda/woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:60
+#: ../raboda/woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:60
+#: ../raboda/woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:61
+#: ../raboda/woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:65
+#: ../raboda/woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:70
+#: ../raboda/woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:76
+#: ../raboda/woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:77
+#: ../raboda/woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:78
+#: ../raboda/woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:79
+#: ../raboda/woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:80
+#: ../raboda/woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:81
+#: ../raboda/woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:82
+#: ../raboda/woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:86
+#: ../raboda/woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product-reviews.php:95
+#: ../raboda/woocommerce/single-product-reviews.php:95
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/add-to-cart/variable.php:27
+#: ../raboda/woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/add-to-cart/variable.php:62
+#: ../raboda/woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/add-to-cart/variable.php:92
+#: ../raboda/woocommerce/single-product/add-to-cart/variable.php:92
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/rating.php:27
+#: ../raboda/woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/rating.php:29
+#: ../raboda/woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/rating.php:30
+#: ../raboda/woocommerce/single-product/rating.php:30
+#, php-format
+msgid "based on %s customer rating"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/rating.php:33
+#: ../raboda/woocommerce/single-product/rating.php:33
+#, php-format
+msgid "%s customer review"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/review.php:26
+#: ../raboda/woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/review.php:27
+#: ../raboda/woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/review.php:34
+#: ../raboda/woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/review.php:43
+#: ../raboda/woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/tabs/additional-information.php:17
+#: ../raboda/woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: ../assyrian/woocommerce/single-product/tabs/description.php:14
+#: ../raboda/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../raboda/404.php:14
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: ../raboda/404.php:15
+msgid "Search our website"
+msgstr ""
+
+#: ../raboda/functions.php:319
+msgid "Availability"
+msgstr ""
+
+#: ../raboda/functions.php:933 ../raboda/functions.php:935
+msgid "Blog Aside"
+msgstr ""
+
+#: ../raboda/functions.php:1007
+msgid "<i class=\"fa fa-chevron-left\"></i>"
+msgstr ""
+
+#: ../raboda/functions.php:1008
+msgid "<i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: ../raboda/functions.php:1140
+#, php-format
+msgid ""
+"<i class=\"fa fa-user\"></i>%1$s<i class=\"fa fa-clock-o\"></i>%2$s<i class="
+"\"fa fa-folder-o\"></i>%3$s<i class=\"fa fa-tags\"></i>%4$s%5$s"
+msgstr ""
+
+#: ../raboda/functions.php:1142
+#, php-format
+msgid ""
+"<i class=\"fa fa-user\"></i>%1$s<i class=\"fa fa-clock-o\"></i>%2$s<i class="
+"\"fa fa-folder-o\"></i>%3$s%5$s"
+msgstr ""
+
+#: ../raboda/functions.php:1170
+#, php-format
+msgid ""
+"<div class=\"small-meta\"><i class=\"fa fa-calendar\"></i>%1$s%2$s</div>"
+msgstr ""
+
+#: ../raboda/include/shortcodes.php:127
+msgid "Newsletter Form ID"
+msgstr ""
+
+#: ../raboda/include/shortcodes.php:129
+msgid "1"
+msgstr ""
+
+#: ../raboda/include/wooajax.php:102
+#: ../raboda/woocommerce/cart/mini-cart.php:24
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../raboda/plugins/roadthemes-helper/roadthemes-helper.php:259
+msgid "Share this post"
+msgstr ""
+
+#: ../raboda/plugins/roadthemes-helper/roadthemes-helper.php:283
+msgid "Share this product"
+msgstr ""
+
+#: ../raboda/theme-config.php:256
+msgid "Logo 404"
+msgstr ""
+
+#: ../raboda/theme-config.php:259
+msgid "Upload logo 404 here."
+msgstr ""
+
+#: ../raboda/theme-config.php:298
+msgid "Pick a color for primary color (default: #1abc9c)."
+msgstr ""
+
+#: ../raboda/theme-config.php:309
+msgid "Pick a color for bg sale label (default: #e23a3b)."
+msgstr ""
+
+#: ../raboda/theme-config.php:331
+msgid "Pick a color for star of rating (default: #1abc9c)."
+msgstr ""
+
+#: ../raboda/theme-config.php:379
+msgid "Welcome message"
+msgstr ""
+
+#: ../raboda/theme-config.php:402
+msgid "Footer Skin"
+msgstr ""
+
+#: ../raboda/theme-config.php:416
+msgid "About us"
+msgstr ""
+
+#: ../raboda/theme-config.php:417
+msgid "HTML tags allowed: a, br, em, img, strong"
+msgstr ""
+
+#: ../raboda/theme-config.php:428
+msgid "Testimonials title"
+msgstr ""
+
+#: ../raboda/theme-config.php:848
+msgid "Shortcode products limit"
+msgstr ""
+
+#: ../raboda/theme-config.php:849
+msgid "Limit number of products by woocommerce shortcode [products]"
+msgstr ""
+
+#: ../raboda/woocommerce/archive-product.php:45
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../raboda/woocommerce/content-product.php:106
+#, php-format
+msgid "%s review"
+msgstr ""
+
+#: ../raboda/woocommerce/content-product.php:106
+msgid "Add your review"
+msgstr ""
+
+#: ../twentyfourteen/404.php:17 ../twentythirteen/404.php:16
+msgid "Not Found"
+msgstr ""
+
+#: ../twentyfourteen/404.php:21 ../twentythirteen/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentyfourteen/author.php:31 ../twentythirteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:27 ../twentytwelve/comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:34 ../twentyfourteen/comments.php:52
+#: ../twentythirteen/comments.php:45 ../twentytwelve/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:35 ../twentyfourteen/comments.php:53
+#: ../twentythirteen/comments.php:46 ../twentytwelve/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:36 ../twentyfourteen/comments.php:54
+#: ../twentythirteen/comments.php:47 ../twentytwelve/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "1 Comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "% Comments"
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:18 ../twentythirteen/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:27 ../twentythirteen/content-none.php:27
+#: ../twentytwelve/404.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#: ../twentytwelve/footer.php:16
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#: ../twentytwelve/footer.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:83
+msgid "Top primary menu"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:171
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:173
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:180
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:182
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:189
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:191 ../twentythirteen/functions.php:233
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:372
+#, php-format
+msgid "%d Article"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:488 ../twentythirteen/functions.php:218
+#: ../twentytwelve/functions.php:213
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../twentyfourteen/header.php:48
+msgid "Search"
+msgstr ""
+
+#: ../twentyfourteen/header.php:53 ../twentythirteen/header.php:44
+#: ../twentytwelve/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentyfourteen/image.php:65
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfourteen/image.php:66
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfourteen/inc/back-compat.php:37
+#: ../twentyfourteen/inc/back-compat.php:47
+#: ../twentyfourteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fourteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:19
+#: ../twentyfourteen/inc/customizer.php:20
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:28
+msgid "Site Title Color"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:31
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:35
+#: ../twentyfourteen/inc/featured-content.php:408
+msgid "Featured Content"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:36
+#: ../twentyfourteen/inc/featured-content.php:409
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:37
+#: ../twentyfourteen/inc/customizer.php:102
+#: ../twentyfourteen/inc/featured-content.php:410
+#: ../twentyfourteen/inc/featured-content.php:419
+#: ../twentyfourteen/inc/featured-content.php:479
+msgid "featured"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:54
+msgid "Grid"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:55
+msgid "Slider"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:99
+msgid "Twenty Fourteen"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:102
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change "
+"the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If "
+"no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed "
+"instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:103
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Twenty "
+"Fourteen uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:104
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Twenty Fourteen documentation</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:431
+msgid "Tag Name"
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:436
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:53
+#: ../twentythirteen/functions.php:266
+msgid "Posts navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:84
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:86
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:87
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:104
+#: ../twentythirteen/functions.php:322
+msgid "Sticky"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:36
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts."
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:54
+#: ../twentyfourteen/taxonomy-post_format.php:33
+msgid "Images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:55
+msgid "More images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:58
+#: ../twentyfourteen/taxonomy-post_format.php:36
+msgid "Videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:59
+msgid "More videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:62
+#: ../twentyfourteen/taxonomy-post_format.php:39
+msgid "Audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:63
+msgid "More audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:66
+#: ../twentyfourteen/taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:67
+msgid "More quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:70
+#: ../twentyfourteen/taxonomy-post_format.php:45
+msgid "Links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:71
+msgid "More links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:74
+#: ../twentyfourteen/taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:75
+msgid "More galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:79
+#: ../twentyfourteen/taxonomy-post_format.php:30
+msgid "Asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:80
+msgid "More asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:162
+#, php-format
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:206
+#, php-format
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:258
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:261
+msgid "Post format to show:"
+msgstr ""
+
+#: ../twentythirteen/404.php:21 ../twentytwelve/404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:30 ../twentytwelve/content.php:66
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "One comment so far"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../twentythirteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../twentythirteen/functions.php:97
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../twentythirteen/functions.php:231
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:241
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:243
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: ../twentythirteen/functions.php:303
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: ../twentythirteen/functions.php:304
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/functions.php:363
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:369 ../twentytwelve/content-aside.php:20
+#: ../twentytwelve/content-link.php:18 ../twentytwelve/content-quote.php:17
+#: ../twentytwelve/content-status.php:15
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../twentythirteen/header.php:43 ../twentytwelve/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: ../twentythirteen/image.php:22
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../twentythirteen/image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../twentythirteen/image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentythirteen/image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/inc/back-compat.php:37
+#: ../twentythirteen/inc/back-compat.php:47
+#: ../twentythirteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentythirteen/inc/custom-header.php:49
+msgid "Circle"
+msgstr ""
+
+#: ../twentythirteen/inc/custom-header.php:54
+msgid "Diamond"
+msgstr ""
+
+#: ../twentythirteen/inc/custom-header.php:59
+msgid "Star"
+msgstr ""
+
+#: ../twentythirteen/taxonomy-post_format.php:23
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:33
+msgid "Leave a reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:33
+msgid "1 Reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:33
+msgid "% Replies"
+msgstr ""
+
+#: ../twentytwelve/content.php:16
+msgid "Featured post"
+msgstr ""
+
+#: ../twentytwelve/functions.php:242
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../twentytwelve/functions.php:244
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: ../twentytwelve/functions.php:252
+msgid "First Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:254 ../twentytwelve/functions.php:264
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+
+#: ../twentytwelve/functions.php:262
+msgid "Second Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:390
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:392
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:394
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""

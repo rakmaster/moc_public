@@ -74,6 +74,7 @@ sudo apt-get install -y --allow-unauthenticated \
 	php7.0-tidy \
 	php7.0-xml \
 	php7.0-zip \
+	php-mysql \
 	re2c \
 	snmp-mibs-downloader
 
@@ -82,6 +83,8 @@ sudo a2enmod php7.0
 sudo a2enconf php7.0-fpm
 
 sudo net-snmp-config --snmpconfpath
+
+phpenmod mysqli
 
 # restart php-fpm
 sudo service apache2 restart
