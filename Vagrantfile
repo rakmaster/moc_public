@@ -13,5 +13,5 @@ Vagrant.configure(2) do |config|
       owner: "vagrant",
       group: "www-data",
       mount_options: ["dmode=775,fmode=664"]
-  config.vm.provision "shell", path: "provision.sh"
+  config.vm.provision "shell", path: "provision.sh", privileged: false
 end
