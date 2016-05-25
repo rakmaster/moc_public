@@ -37,6 +37,7 @@ echo "Installing MySQL"
 echo "mysql-server mysql-server/root_password password web" | sudo debconf-set-selections
 echo "mysql-server mysql-server/root_password_again password web" | sudo debconf-set-selections
 sudo apt-get -y install mysql-server mysql-client
+echo "setting bind address"
 sudo sed -i "s/bind-address\s*=\s*127.0.0.1/bind-address = 0.0.0.0/" ${mysql_config_file}
 
 # Allow root access from any host
