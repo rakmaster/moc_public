@@ -168,25 +168,4 @@ sudo curl -O "https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-c
 sudo chmod +x wp-cli.phar
 sudo mv wp-cli.phar /usr/local/bin/wp
 
-# Set up the wordpress database
-# Install the MOC WordPress Database
-echo 'Installing moc_wordpress Db'
-echo "CREATE DATABASE IF NOT EXISTS moc_wordpress" | mysql --silent -uroot -pweb
-echo "GRANT ALL ON moc_wordpress.* TO 'moc_dbadmin'@'%' IDENTIFIED BY 'moc_!DB@dmin'" | mysql --silent -uroot -pweb
-echo "flush privileges" | mysql --silent -uroot -pweb
-
-# Set up the WordPress marketing site
-cd /var/www/html/public/
-echo "Installing WordPress"
-wp core download
-wp core config --dbname="moc_wordpress" --dbuser="moc_dbadmin" --dbpass="moc_!DB@dmin"
-wp core install --url="http://moc.dev" --title="Mining Operations Controller" --admin_user="moc_admin" --admin_password="moc_wp-admin_01" --admin_email="admin@burningphantom.com"
-
-# Set up the admin database
-# Install the MOC Administration Database
-echo 'Installing moc_application Db'
-echo "CREATE DATABASE IF NOT EXISTS moc_application" | mysql --silent -uroot -pweb
-echo "GRANT ALL ON moc_administration.* TO 'moc_dbadmin'@'%' IDENTIFIED BY 'moc_!DB@dmin'" | mysql --silent -uroot -pweb
-echo "flush privileges" | mysql --silent -uroot -pweb
-
 touch /var/lock/vagrant-provision

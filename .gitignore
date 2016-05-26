@@ -5,11 +5,12 @@
 public/*
 !htdocs/public/wp-content/
 
-# Ignore everything in the "wp-content" directory, except the "plugins"
+# Ignore everything in the "wp-content" directory, except plugins, theme, and uploads
 # and "themes" directories.
 htdocs/public/wp-content/*
 !htdocs/public/wp-content/plugins/
 !htdocs/public/wp-content/themes/
+!htdocs/public/wp-content/uploads/
 
 # Ignore everything in the "plugins" directory, except the plugins you
 # specify (see the commented-out examples for hints on how to do this.)

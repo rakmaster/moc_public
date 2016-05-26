@@ -40,8 +40,9 @@ if(is_ssl()){
 			<div class="header">
 				<div class="container">
 					<div class="header-inner">
-						<div class="row">
-							<div class="col-xs-12 col-md-4 col-sm-4">
+						<h1>Mining Operations Controller</h1>
+						<!--<div class="row">
+						<div class="col-xs-12 col-md-4 col-sm-4">
 								<?php if( class_exists('WC_Widget_Product_Search') ) { ?>
 									<div class="header-search">
 										<?php the_widget('WC_Widget_Product_Search', array('title' => 'Search')); ?>
@@ -62,7 +63,7 @@ if(is_ssl()){
 									the_widget('Custom_WC_Widget_Cart'); 
 								} ?>
 							</div>
-						</div>
+						</div>/-->
 					</div>
 				</div>
 				<div class="nav-container">

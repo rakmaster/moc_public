@@ -6,7 +6,7 @@ h1 {
   background: #eee;
   border-bottom: 1px solid #ddd;
   color: #000000;
-  font-family: Merriweather, Arial, Helvetica, sans-serif;
+  font-family: Monda, Arial, Helvetica, sans-serif;
   font-size: 18px;
   font-weight: normal;
   line-height: 1.35;
@@ -18,7 +18,7 @@ table.compare-list .remove td a {
   color: #444444;
 }
 table.compare-list .remove td a:hover {
-  color: #1abc9c;
+  color: #4a6377;
 }
 table.compare-list .remove td a .remove {
   background: url("../images/btn_remove.gif") no-repeat 0 0;
@@ -54,9 +54,9 @@ table.compare-list tr.price td .old-price {
   text-decoration: line-through;
 }
 table.compare-list tr.add-to-cart td a.add_to_cart_button {
-  background: #1abc9c;
+  background: #4a6377;
   border-radius: 3px;
-  font-family: Merriweather, Arial, Helvetica, sans-serif;
+  font-family: Monda, Arial, Helvetica, sans-serif;
   height: 30px;
   line-height: 30px;
   margin: 0;
@@ -66,5 +66,5 @@ table.compare-list tr.add-to-cart td a.add_to_cart_button:hover {
   background: #909295;
 }
 table.compare-list tr.stock td span {
-  color: #1abc9c;
+  color: #4a6377;
 }
