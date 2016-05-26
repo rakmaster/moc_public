@@ -168,4 +168,17 @@ sudo curl -O "https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-c
 sudo chmod +x wp-cli.phar
 sudo mv wp-cli.phar /usr/local/bin/wp
 
+# Add the databases...
+echo "Installing databases"
+echo "CREATE DATABASE IF NOT EXISTS moc_wordpress" | mysql --silent -uroot -pweb
+echo "GRANT ALL ON moc_wordpress.* TO 'moc_dbadmin'@'%' IDENTIFIED BY 'moc_!DB@dmin'" | mysql --silent -uroot -pweb
+echo "flush privileges" | mysql --silent -uroot -pweb
+
+echo "CREATE DATABASE IF NOT EXISTS moc_application" | mysql --silent -uroot -pweb
+echo "GRANT ALL ON moc_application.* TO 'moc_dbadmin'@'%' IDENTIFIED BY 'moc_!DB@dmin'" | mysql --silent -uroot -pweb
+echo "flush privileges" | mysql --silent -uroot -pweb
+
+# Adding data...
+mysql -u root --password=web moc_wordpress < /vagrant/moc_wp_db.sql
+
 touch /var/lock/vagrant-provision
